@@ -3,5 +3,5 @@ class Song
   def title
     @title
   end
-  self.artist.name
+  song.artist.name
 end
