@@ -3,4 +3,6 @@ class Song
   def title
     @title
   end
+  self.artist = self.Artist
 end
+
