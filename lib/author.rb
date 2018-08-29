@@ -1,4 +1,4 @@
-class author
+class Author
   attr_accessor :author_name
   def author_name
     @author_name
