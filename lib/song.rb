@@ -3,5 +3,4 @@ class Song
   def title
     @title
   end
-  song.artist.name
 end
