@@ -1,6 +1,6 @@
 class author
-  attr_accessor :name
-  def name
-    @name
+  attr_accessor :author_name
+  def author_name
+    @author_name
   end
 end
